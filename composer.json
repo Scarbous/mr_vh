@@ -1,0 +1,15 @@
+{
+    "name": "scarbous/mr_vh",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Scarbous\\MrVh\\": "Classes/"
+        }
+    },
+    "type": "typo3-cms-extension",
+    "keywords": ["TYPO3 CMS"],
+    "license": "GPL-2.0+",
+    "support": {
+        "issues": "https://github.com/Scarbous/mr_vh/issues"
+    }
+}
